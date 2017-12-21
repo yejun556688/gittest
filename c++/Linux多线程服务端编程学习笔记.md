@@ -13,3 +13,5 @@ __thread int t_var;  // __thread变量
 
 
 
+
+

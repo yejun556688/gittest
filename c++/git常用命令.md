@@ -33,7 +33,9 @@ git blame [file_name]
 
 #### 4.暂存文件的部分修改
 
-
+```
+git add -p [file_name]
+```
 
 
 

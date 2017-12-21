@@ -1,5 +1,7 @@
-####1.删除远程分支
+#### 1.删除远程分支
+
 先查看远程分支
+
 ```
 git branch -r
 ```
@@ -22,4 +24,10 @@ git rebase -i HEAD~[number_of_commits]
 ```
 git rebase -i HEAD~2
 ```
+
+#### 3.查看文件的最新变动
+
+
+
+
 

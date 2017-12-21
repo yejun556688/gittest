@@ -31,5 +31,9 @@ git rebase -i HEAD~2
 git blame [file_name]
 ```
 
+#### 4.暂存文件的部分修改
+
+
+
 
 

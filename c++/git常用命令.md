@@ -37,5 +37,17 @@ git blame [file_name]
 git add -p [file_name]
 ```
 
+我们来演示一下在
+
+file\_name
+
+文件中添加了3行文字，但只想提交第一行和第三行。先看一下
+
+git diff
+
+显示的结果：
+
+![](/assets/c3f16cfb-7009-4365-b128-ee2b55662f39.png)
+
 
 

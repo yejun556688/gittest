@@ -27,7 +27,9 @@ git rebase -i HEAD~2
 
 #### 3.查看文件的最新变动
 
-
+```
+git blame [file_name]
+```
 
 
 

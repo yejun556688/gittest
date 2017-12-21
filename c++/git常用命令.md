@@ -41,5 +41,5 @@ git add -p [file_name]
 
 ![](/assets/c3f16cfb-7009-4365-b128-ee2b55662f39.png)
 
-
+然后再看看在 add 命令中添加 -p 参数是怎样的？
 

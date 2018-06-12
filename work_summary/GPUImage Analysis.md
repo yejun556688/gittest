@@ -153,7 +153,7 @@ GPUImageContext类，提供OpenGL ES基本上下文，GPUImage相关处理线程
 
 #### 3 GPUImageFramebuffer / GPUImageFramebufferCache
 
-PUImageFramebuffer、GPUImageFramebufferCache 是GPUImage中处理帧缓存相关的类，是各种滤镜的基础。
+GPUImageFramebuffer、GPUImageFramebufferCache 是GPUImage中处理帧缓存相关的类，是各种滤镜的基础。
 
 ```objective-c
 @interface GPUImageFramebuffer : NSObject
